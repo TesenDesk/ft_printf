@@ -5,7 +5,7 @@
 
 Добавлена поддержка цветов. Для этого введите флаг(-и) в первом аргументе функции, и весь текст после этого флага примет новые настройки. См. таблицу:
 
-[ft_rintf colors table](imgs/printf_colors.png)
+![ft_printf colors table](https://raw.githubusercontent.com/TesenComputerCorporation/ft_printf/master/imgs/printf_colors.png)
 
 Этот проект я делал в команде с sgarry. Моя часть работы состояла в проверке правильности введенных данных и работа с некоторыми флагами.
 
